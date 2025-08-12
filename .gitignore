@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Données volumineuses
+data/
+*.zip
+*.parquet
+recipes_full.csv
+
+# Caches
+.streamlit/
+.cache/
